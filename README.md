@@ -106,8 +106,7 @@ agentic_research_assistant/
 ### 2. Installation & Setup
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/agentic-research-assistant.git
-cd agentic-research-assistant
+git clone https://github.com/tharunramavath/Production-Grade-Agentic-RAG-Engine-for-Technical-Document-Exploration.git
 
 # 2. Copy and configure environment variables
 cp .env.example .env
